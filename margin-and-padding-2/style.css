@@ -1,0 +1,50 @@
+body{
+    background-color: gray;
+    margin: 8px;
+    font-family: sans-serif;
+}
+
+.card{
+    margin: 8px;
+}
+
+div{
+    background-color: white;
+    margin: 8px;
+    margin-bottom: -1px;
+    display: inline-block;
+    
+}
+
+.title{
+    background-color: lightblue;
+    margin: 8px;
+    font-size: 16px;
+    padding: 8px;
+    display: inline-block;
+    width: 420px;
+    margin-bottom: -1px;
+}
+
+.content{
+    background-color: lightblue;
+    display: inline-block;
+    height: 40px;
+    padding: 16px  8px;
+}
+
+
+.button-container{
+    background-color: lightblue;
+    display: inline-block;
+    padding: 8px;
+    width: 420px;
+    text-align: center;
+    margin: 8px;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+    padding: 8px 24px;
+}
